@@ -272,7 +272,7 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
   {
-    title: 'ONLINE',
+    title: 'RADIO DEMBOW',
     file: 'rave_digger',
     howl: null
   },
